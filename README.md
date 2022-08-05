@@ -1,2 +1,3 @@
-# sud-mgp-ios-pod
-SudMGP iOS pod
+# Sud MGP iOS Pod
+
+Sud MGP iOS Pod
