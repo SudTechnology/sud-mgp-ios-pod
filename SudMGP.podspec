@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'SudMGP'
-  s.version          = '1.2.2'
+  s.version          = '1.2.3'
   s.summary          = 'SudMGP iOS framework'
   s.description      = 'Sud Mini Game Platform'
   s.homepage         = 'https://github.com/SudTechnology/sud-mgp-ios-pod'
